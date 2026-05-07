@@ -3,9 +3,12 @@
 (require 'ox-html)
 
 (setq org-html-doctype "html5"
-      org-html-html5-fancy t
+      org-html-html5-fancy nil
       org-html-validation-link nil
       org-html-postamble nil
+      org-html-head "<link rel=\"stylesheet\" href=\"style.css\" />"
+      org-html-head-include-default-style nil
+      org-html-head-include-scripts nil
       org-export-with-smart-quotes t
       org-export-with-broken-links 'mark)
 

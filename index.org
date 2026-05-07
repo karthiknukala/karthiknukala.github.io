@@ -1,7 +1,5 @@
-#+TITLE: Karthik Nukala Website
+#+TITLE: Karthik Nukala
 #+AUTHOR: Karthik Nukala
 #+LANGUAGE: en
 #+EXPORT_FILE_NAME: index.html
 #+OPTIONS: toc:nil num:nil
-
-Karthik Nukala Website
